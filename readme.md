@@ -1,4 +1,4 @@
-Laravel with Polymer Starter Kit
+Laravel 5 with Polymer Starter Kit
 
 Install instructions
 ====================
@@ -8,4 +8,7 @@ Install instructions
 3. Run <code>npm install</code>
 4. Run <code>bower install</code>
 5. Run <code>gulp</code>
-6. Configure your server and access the root dir of this.
+6. Copy and rename <code>.env.example</code> to <code>.env</code> and configure that file to your need.
+7. run <code>php artisan key:generate</code>
+8. Configure your server and access the root dir of this.
+9. Have fun!
